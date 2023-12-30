@@ -7,5 +7,3 @@ aadi
 rishi
 rakesh
 mohan
-rajehjsjsa
-skjzckjdsk
